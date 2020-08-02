@@ -6,5 +6,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Panóplia Plataform...
-- 🌱 I’m currently learning React...
+- 🔭 I’m currently working as a Freelancer.
+- 🌱 I’m currently learning React.
