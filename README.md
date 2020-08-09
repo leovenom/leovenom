@@ -14,7 +14,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true&theme=graywhite" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
   </p>
 </details>
+<details>
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&layout=compact)](https://github.com/leovenom/github-readme-stats)
 </p>
+  </details>
 ![](https://komarev.com/ghpvc/?username=leovenom&label=Views&color=blue&style=plastic)
