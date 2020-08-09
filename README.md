@@ -10,7 +10,7 @@
   <summary>My Github Stats</summary>
   <br>
 
- <p align="center">
+ <p align="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true&theme=graywhite" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
   </p>
 </details>
