@@ -13,7 +13,7 @@
   <br>
 
  <p align="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true&theme=graywhite" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
   </p>
 </details>
 
