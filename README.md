@@ -6,6 +6,8 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:leonardt@outlook.com)](mailto:leonardt@outlook.com)
 [![GitHub Leonardt](https://img.shields.io/github/followers/leovenom?label=follow&style=social)](https://github.com/leovenom)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&layout=compact&theme=graywhite)](https://github.com/leovenom/github-readme-stats)
+
 <details>
   <summary>My Github Stats</summary>
   <br>
@@ -14,7 +16,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true&theme=graywhite" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
   </p>
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&layout=compact&theme=graywhite)](https://github.com/leovenom/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=leovenom&label=Views&color=blue&style=plastic)
