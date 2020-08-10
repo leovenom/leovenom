@@ -14,14 +14,16 @@
   <img src="https://camo.githubusercontent.com/f66b2dde2fa3fc83d83f750aede8003743ccf3a8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6c656f76656e6f6d3f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub Leonardt" data-canonical-src="https://img.shields.io/github/followers/leovenom?label=follow&amp;style=social" style="max-width:100%;">
   </a>
   
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&layout=compact&theme=graywhite)](https://github.com/leovenom/github-readme-stats)
+
 </p>
-
-
 <details>
   <summary>My Github Stats</summary>
   <br>
 
- <p align="">
+ <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
   </p>
 </details>
