@@ -19,7 +19,7 @@
 </p>
 
 <details>
- <summary align="center">My Github Stats</summary>
+ <summary align="center">My Github Stats :rocket: :octocat: </summary>
   <br>
   
  <p align="center">
