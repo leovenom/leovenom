@@ -17,13 +17,13 @@
   <img src="https://camo.githubusercontent.com/438d5ce7f448ba4a3bbe0e808cb7d1fbbccb4b7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c656f76656e6f6d266c61796f75743d636f6d70616374267468656d653d677261797768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&amp;layout=compact&amp;theme=graywhite" style="max-width:100%;">
  </a>
 </p>
-<details>
+
  <summary align="center">My Github Stats :rocket: :octocat: </summary>
   <br>
  <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
  </p>
-</details>
+
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=leovenom&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width:100%;">
  </a>
