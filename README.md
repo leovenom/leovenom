@@ -1,6 +1,7 @@
 <a href="https://leonardt-profile.netlify.app/">
   <img src="https://i.imgur.com/Yf9kb0B.png">
 </a>
+
 <p align="center">	
   <a href="https://www.linkedin.com/in/leonardtlauenstein/">
       <img alt="Leonardt Lauenstein" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -12,6 +13,7 @@
    <img src="https://camo.githubusercontent.com/f66b2dde2fa3fc83d83f750aede8003743ccf3a8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6c656f76656e6f6d3f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub Leonardt" data-canonical-src="https://img.shields.io/github/followers/leovenom?label=follow&amp;style=social" style="max-width:100%;">
   </a>
 </p>
+
 <p align="center">
  <a href="https://github.com/leovenom/github-readme-stats">
   <img src="https://camo.githubusercontent.com/438d5ce7f448ba4a3bbe0e808cb7d1fbbccb4b7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c656f76656e6f6d266c61796f75743d636f6d70616374267468656d653d677261797768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&amp;layout=compact&amp;theme=graywhite" style="max-width:100%;">
