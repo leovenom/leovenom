@@ -1,8 +1,7 @@
 <a href="https://leonardt-profile.netlify.app/">
   <img src="https://i.imgur.com/Yf9kb0B.png">
 </a>
-
-<p align="center">	
+  <p align="center">	
   <a href="https://www.linkedin.com/in/leonardtlauenstein/">
       <img alt="Leonardt Lauenstein" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
