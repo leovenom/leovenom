@@ -1,5 +1,5 @@
 <a href="https://leonardt-profile.netlify.app/">
-  <img src="https://imgur.com/fpYJnFZ">
+  <img src="https://i.imgur.com/fpYJnFZ.png">
 </a>
   <p align="center">	
   <a href="https://www.linkedin.com/in/leonardtlauenstein/">
