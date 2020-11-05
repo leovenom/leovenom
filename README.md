@@ -1,6 +1,11 @@
 <a href="https://leonardt.eu/">
   <img src="https://i.imgur.com/fpYJnFZ.png">
 </a>
+<p align="center">	
+  🧃 All of my projects are available at <a href="https://leonardt.eu"/>leonardt.eu</a>
+</p>
+<br>
+<p>
   <p align="center">	
     <a href="https://www.linkedin.com/in/leonardtlauenstein/">
       <img alt="Leonardt Lauenstein" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -30,7 +35,7 @@
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=leovenom&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width:100%;">
  </a>
 </p>
-
+<br>
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -42,7 +47,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
