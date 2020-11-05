@@ -19,6 +19,7 @@
   <img src="https://camo.githubusercontent.com/438d5ce7f448ba4a3bbe0e808cb7d1fbbccb4b7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c656f76656e6f6d266c61796f75743d636f6d70616374267468656d653d677261797768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&amp;layout=compact&amp;theme=graywhite" style="max-width:100%;">
  </a>
 </p>
+
  <summary align="center">My Github Stats :rocket: :octocat: </summary>
   <br>
  <p align="center">
@@ -28,4 +29,25 @@
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=leovenom&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width:100%;">
  </a>
+</p>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 </p>
