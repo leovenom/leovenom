@@ -1,5 +1,5 @@
 <a href="https://leonardt.eu/">
-  <img src="https://i.imgur.com/fpYJnFZ.png">
+  <img src="https://i.imgur.com/pyKBVc7.png">
 </a>
 <p align="center">	
   🧃 All of my projects are available at <a href="https://leonardt.eu"/>leonardt.eu</a>
