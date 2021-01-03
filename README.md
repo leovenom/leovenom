@@ -1,9 +1,9 @@
 <a href="https://leonardt.eu/">
   <img src="https://i.imgur.com/pyKBVc7.png">
 </a>
-<h3 align="center">	
+<p align="center">	
   🧃 All of my projects are available at <a href="https://leonardt.eu"/>leonardt.eu</a>
-</h3>
+</p>
 <br>
 <p>
   <p align="center">	
