@@ -4,6 +4,7 @@
 <h3 align="center">	
   🧃 All of my projects are available at <a href="https://leonardt.eu"/>leonardt.eu</a>
 </h3>
+<br/>
 <p>
   <p align="center">	
     <a href="https://www.linkedin.com/in/leonardtlauenstein/">
