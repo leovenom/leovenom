@@ -1,9 +1,9 @@
 <a href="https://leonardt.eu/">
   <img src="https://i.imgur.com/pyKBVc7.png">
 </a>
-<p align="center">	
+<h3 align="center">	
   🧃 All of my projects are available at <a href="https://leonardt.eu"/>leonardt.eu</a>
-</p>
+</h3>
 <br>
 <p>
   <p align="center">	
@@ -22,7 +22,7 @@
   <img src="https://camo.githubusercontent.com/438d5ce7f448ba4a3bbe0e808cb7d1fbbccb4b7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c656f76656e6f6d266c61796f75743d636f6d70616374267468656d653d677261797768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&amp;layout=compact&amp;theme=graywhite" style="max-width:100%;">
  </a>
 </p>
- <summary align="center">My Github Stats :rocket: :octocat: </summary>
+ <h3 align="center">My Github Stats :rocket: :octocat: </h3>
   <br>
  <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
