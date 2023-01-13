@@ -17,15 +17,15 @@
   <img src="https://camo.githubusercontent.com/f66b2dde2fa3fc83d83f750aede8003743ccf3a8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6c656f76656e6f6d3f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub Leonardt" data-canonical-src="https://img.shields.io/github/followers/leovenom?label=follow&amp;style=social" style="max-width:100%;">
   </a>
 </p>
+<h3 align="center">Top languages 👅🤟</h3>
 <p align="center">
- <a href="https://github.com/leovenom/github-readme-stats">
-  <img src="https://camo.githubusercontent.com/438d5ce7f448ba4a3bbe0e808cb7d1fbbccb4b7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c656f76656e6f6d266c61796f75743d636f6d70616374267468656d653d677261797768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovenom&amp;layout=compact&amp;theme=graywhite" style="max-width:100%;">
- </a>
+  <br>
+     <img align="center" src="https://github-readme-stats-one-kappa-15.vercel.app/api/top-langs/?username=leovenom" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
 </p>
- <h3 align="center">My Github Stats :rocket: :octocat: </h3>
+ <h3 align="center">My Github Stats :rocket: :octocat:</h3>
   <br>
  <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leovenom&show_icons=true" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
+  <img align="center" src="https://github-readme-stats-one-kappa-15.vercel.app/api?username=leovenom&show_icons=true" />
  </p>
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=leovenom&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width:100%;">
