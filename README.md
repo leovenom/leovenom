@@ -20,7 +20,7 @@
 <h3 align="center">Top languages 👅🤟</h3>
 <p align="center">
   <br>
-     <img align="center" src="https://github-readme-stats-one-kappa-15.vercel.app/api/top-langs/?username=leovenom" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
+     <img align="center" src="https://github-readme-stats-git-master-leonardtlauenstein-pierdigital.vercel.app/api/top-langs/?username=leovenom" alt="Leonardt Lauenstein's Github Stats" alt="Leonardt Lauenstein's Github Status" />
 </p>
  <h3 align="center">My Github Stats :rocket: :octocat:</h3>
   <br>
