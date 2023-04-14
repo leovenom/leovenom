@@ -25,7 +25,7 @@
  <h3 align="center">My Github Stats :rocket: :octocat:</h3>
   <br>
  <p align="center">
-  <img align="center" src="https://github-readme-stats-one-kappa-15.vercel.app/api?username=leovenom&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-git-master-leonardtlauenstein-pierdigital.vercel.app/api?username=leovenom&show_icons=true" />
  </p>
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/d65f84fc10c855ea93d97300b5e6cfe88abc38be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c656f76656e6f6d266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=leovenom&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width:100%;">
