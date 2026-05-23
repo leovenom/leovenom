@@ -1,8 +1,8 @@
-<a href="https://leonardt.eu/">
+<a href="https://porfolio-cv-2026.vercel.app/">
   <img src="https://i.imgur.com/6xTWnDG.png">
 </a>
 <h3 align="center">	
-  🧃 All of my projects are available at <a href="https://leonardt.eu"/>leonardt.eu</a>
+  🧃 All of my projects are available at <a href="https://porfolio-cv-2026.vercel.app/"/>leonardt.eu</a>
 </h3>
 <br/>
 <p>
